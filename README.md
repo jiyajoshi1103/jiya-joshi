@@ -8,10 +8,15 @@ I’m an IT student majoring in **Cyber Security and Software Technology** at **
 * Linux and basic networking concepts
 * Cloud computing through **AWS Educate** and **Microsoft Learn**
 
+💻 **Programming Languages:**
+
+* **Python** – for scripting, automation, and practice projects
+* **Java** and **C** – studied as part of my Software Technology major
+
 🧠 **What You’ll Find Here:**
 
 * Notes from cybersecurity labs and self-learning
-* Small Python practice scripts
+* Python and Java practice scripts
 * My journey documenting what I learn along the way
 
 📫 **Connect with Me:**
